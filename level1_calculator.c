@@ -60,7 +60,7 @@ int main()
 
     if (IsValid)
     {
-        printf("\nResult Is  : %d %c %d = %d\n\n", Num1, Operator, Num2, Result);
+        printf("\nResult Is : %d %c %d = %d\n\n", Num1, Operator, Num2, Result);
     }
 
     return 0;
